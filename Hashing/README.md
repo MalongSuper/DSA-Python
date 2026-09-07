@@ -1,5 +1,7 @@
 ## Hash Tables and Hashing
 
+<img src="hash_tables.png" alt="Hash Tables" height="400">
+
 * Stores key-value pairs using a hash function.
 * Provides fast average-case lookup, insertion, and deletion.
 * Hash Function: Converts a key into an index.
