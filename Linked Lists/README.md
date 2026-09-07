@@ -1,4 +1,5 @@
-## Linked List: 
+## Linked List
+
 <img src="linked_list.png" alt="Linked List" height="400">
 
 * Elements stored as nodes connected by links.
