@@ -1,6 +1,6 @@
-## Heap: 
+## Heap
 
-Specialized tree used for priority-based access.
+A specialized tree used for priority-based access.
 
   * Min-Heap vs Max-Heap
 
