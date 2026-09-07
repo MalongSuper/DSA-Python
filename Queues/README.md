@@ -1,4 +1,4 @@
-## Queues
+## Queue
 
 <img src="queue.png" alt="Queue" height="400">
 
