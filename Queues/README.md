@@ -1,6 +1,6 @@
 ## Queues
 
-![Queue](queue.png)
+<img src="queue.png" alt="Queue" height="400">
 
 * First In, First Out (FIFO).
 * Operations: Enqueue, Dequeue, Front/Peek.
