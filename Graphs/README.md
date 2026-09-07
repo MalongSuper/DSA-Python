@@ -1,5 +1,7 @@
 ## Graph
 
+<img src="graph.png" alt="Graph" height="400">
+
 Collection of vertices connected by edges.
 
 
